@@ -1,0 +1,20 @@
+body {
+  background-color: #1c1c1c;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 36px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  text-align: center;
+}
